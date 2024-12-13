@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E-book</string>
+    <string name="text_e_book">Электронная книга</string>
+    <string name="text_load">Загрузить</string>
+</resources>
